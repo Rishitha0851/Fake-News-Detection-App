@@ -31,3 +31,5 @@ Text input is converted into numerical features using TF-IDF and classified usin
 
 ## 🖥️ Live Application  
 👉 https://news-fake-checker.streamlit.app/
+## 📷 Output
+![App Screenshot](screenshot.png)
